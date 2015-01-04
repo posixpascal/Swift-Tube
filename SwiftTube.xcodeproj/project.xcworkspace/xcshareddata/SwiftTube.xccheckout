@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAC5794F-D089-41BE-8958-D7DECCBD57BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftTube</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CA3128EB99C28C49F9AB62CE0004DCDC78BED9D</key>
+		<string>https://github.com/posixpascal/Swift-Tube.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftTube.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CA3128EB99C28C49F9AB62CE0004DCDC78BED9D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/posixpascal/Swift-Tube.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CA3128EB99C28C49F9AB62CE0004DCDC78BED9D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CA3128EB99C28C49F9AB62CE0004DCDC78BED9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftTube</string>
+		</dict>
+	</array>
+</dict>
+</plist>
